@@ -7,7 +7,7 @@ const Beranda = () => {
   useEffect(() => {
     Ubah_menu("beranda");
   }, []);
-  return <>Ini adalah beranda</>;
+  return <>Ini cadalah beranda</>;
 };
 
 export default Beranda;
